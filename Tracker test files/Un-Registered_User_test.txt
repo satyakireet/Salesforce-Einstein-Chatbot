@@ -1,0 +1,4 @@
+When a Un-regiestered user logs in then he wil be able to see all the menus related to sales, service, marketing etc.
+Once a user clicks on specified menus he can see the products, product Details in sales related menu and Create a case, case status enquiry, order status enquiry in service related and so on.
+Un-registered user will get a login message wherever he is not authorised to menus and sub menus (like order a product, create a case, etc).
+At last, once user acquire all the information to which he needed in einstein bot he can end a chat.

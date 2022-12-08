@@ -1,0 +1,4 @@
+When a regiestered user logs in then he wil be able to see all the menus related to his industry like HealthCare, Banking etc.
+If a user is not having any industry, then he wil be asked the options in which Industry he belongs to
+Once a user belongs to a specific Industry, then he will see related sub menus and the flow furthur will be described based on the user needs and options he choose.
+At last, once user acquire all the information to which he needed in einstein bot he can end a chat.

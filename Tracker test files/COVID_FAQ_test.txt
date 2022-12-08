@@ -1,0 +1,12 @@
+COVID FAQ's menus for HealthCare Industry
+When selected Health Care Industry and related COVID FAQ's menu displayed.
+It is categroised into two sub menus. They are:
+1.COVID-19 Info
+2. COVID-19 Statistics
+In COVID-19 Info: About COVID-19
+
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19
+
+In COVID-19 Statistics: Worldometer to get worldwide statistics
+
+https://www.worldometers.info/coronavirus/

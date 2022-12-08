@@ -1,0 +1,12 @@
+This is done in the salesforce instance.
+Steps are:
+Enable Experience Sites and created with the name yashhealth and used B2B commerce theme.
+
+
+UI fixes: 
+1. Uploading the Avatar of chatbot and agent.
+2. Giving a home page background image .
+3. Fixing the font formatting.
+4. Keeping the chatbot features updated and visible to community users.
+5. Builder part of site building
+6. Administration part of site builder (self-registered, assign appropriate profiles, etc).

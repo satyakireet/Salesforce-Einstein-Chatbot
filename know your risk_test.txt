@@ -1,0 +1,5 @@
+POC- Use Cases ‘Take Control Today’
+Overview: The good news is you can prevent or delay type 2 diabetes Prediabetes is a condition that can lead to type 2 diabetes and even heart disease.
+Then we have given some questions based on which we will give the feedback report so that he can take actions furthur.
+
+Feedback: Based on the above provided answers we will provide the suitable result message to the user like : Right now, your risk for having type 2 diabetes is low.                
